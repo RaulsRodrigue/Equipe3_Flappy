@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/soundtrack_noite.wav-a862a8bb75bb4f86117d40be3b5c0fb9.sample"
+
+[deps]
+
+source_file="res://Material da Aula/sons/soundtrack_noite.wav"
+dest_files=[ "res://.import/soundtrack_noite.wav-a862a8bb75bb4f86117d40be3b5c0fb9.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
